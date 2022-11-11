@@ -1,0 +1,15 @@
+/Users/kvetenadze/Desktop/Новая папка/ddd/bin/Debug/net6.0/ddd
+/Users/kvetenadze/Desktop/Новая папка/ddd/bin/Debug/net6.0/ddd.deps.json
+/Users/kvetenadze/Desktop/Новая папка/ddd/bin/Debug/net6.0/ddd.runtimeconfig.json
+/Users/kvetenadze/Desktop/Новая папка/ddd/bin/Debug/net6.0/ddd.dll
+/Users/kvetenadze/Desktop/Новая папка/ddd/bin/Debug/net6.0/ddd.pdb
+/Users/kvetenadze/Desktop/Новая папка/ddd/obj/Debug/net6.0/ddd.csproj.AssemblyReference.cache
+/Users/kvetenadze/Desktop/Новая папка/ddd/obj/Debug/net6.0/ddd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kvetenadze/Desktop/Новая папка/ddd/obj/Debug/net6.0/ddd.AssemblyInfoInputs.cache
+/Users/kvetenadze/Desktop/Новая папка/ddd/obj/Debug/net6.0/ddd.AssemblyInfo.cs
+/Users/kvetenadze/Desktop/Новая папка/ddd/obj/Debug/net6.0/ddd.csproj.CoreCompileInputs.cache
+/Users/kvetenadze/Desktop/Новая папка/ddd/obj/Debug/net6.0/ddd.dll
+/Users/kvetenadze/Desktop/Новая папка/ddd/obj/Debug/net6.0/refint/ddd.dll
+/Users/kvetenadze/Desktop/Новая папка/ddd/obj/Debug/net6.0/ddd.pdb
+/Users/kvetenadze/Desktop/Новая папка/ddd/obj/Debug/net6.0/ddd.genruntimeconfig.cache
+/Users/kvetenadze/Desktop/Новая папка/ddd/obj/Debug/net6.0/ref/ddd.dll
